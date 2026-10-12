@@ -1,0 +1,12 @@
+fastapi
+httpx
+mongomock-motor
+motor
+python-dotenv
+python-jose[cryptography]
+python-multipart
+pywebpush
+uvicorn[standard]
+webauthn
+dnspython
+certifi
